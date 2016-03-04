@@ -1,0 +1,2 @@
+C:\Users\ahzf\Desktop\Coding\OffenesJena\Mietspiegel\MietspiegelOSM\MietspiegelOSM\bin\Debug\MietspiegelOSM.exe.config
+C:\Users\ahzf\Desktop\Coding\OffenesJena\Mietspiegel\MietspiegelOSM\MietspiegelOSM\obj\Debug\MietspiegelOSM.csprojResolveAssemblyReference.cache
