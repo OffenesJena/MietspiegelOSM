@@ -56,7 +56,7 @@ namespace MietspiegelOSM
 
             new OverpassQuery(JenaId).
                 WithAny      ("building").
-                RunAll("Gebäude/building",
+                RunAll("Gebäude/buildings",
                        SecretKey, Passphrase);
 
             #endregion
