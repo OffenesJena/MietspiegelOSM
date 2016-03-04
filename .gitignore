@@ -1,0 +1,31 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+*.pidb
+*.VisualState.xml
+*.suo
+*.csproj.user
+*.vsp
+*.app.ctl
+*.krn.ctl
+*.psess
+*/TestResult.xml
+*/[oO]bj
+*/[bB]in
+libs/*/obj
+libs/*/bin
+bin
+obj
+Debug
+Release
+
+# mstest test results
+TestResults
+.psess
+.vsp
+
+# OpenGPG security
+MietspiegelOSM/jod-test-pubring.gpg
+MietspiegelOSM/jod-test-secring.gpg
+MietspiegelOSM/jod-test-passphrase.txt
+MietspiegelOSM/jod-official-pubring.gpg
+MietspiegelOSM/jod-official-secring.gpg
+MietspiegelOSM/jod-official-passphrase.txt
